@@ -1,0 +1,41 @@
+.content-box{
+    height: 100px;
+    width: 100px;
+    
+    border: 2px solid black;
+    display: inline-block;
+}
+nav{
+    background-color: #0f1111;
+    height: 60px;
+}
+.classa{
+    text-decoration: none;
+    font-size: 25px;
+    color: orange;
+}
+.classb{
+    text-decoration: none;
+    color: white;
+    margin-left: 150px;
+    /* margin-right: 200px; */
+}
+input{
+    margin-left: 150px;
+}
+button{
+    background-color: #f08804;
+    color: white;
+}
+#content{
+    height: 500px;
+    background-color: rgb(173, 129, 129);
+}
+#footer{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+/* #div1{
+    margin-top: 0px;
+} */

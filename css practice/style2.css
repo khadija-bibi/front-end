@@ -1,0 +1,43 @@
+/*#div1{
+    height: 50px;
+    width: 80px;
+    background-color: pink;
+    border-width: 2px;
+    border-style: solid;
+    border-color: blue;
+    text-align: right;
+    border-radius: 10%;
+    /* padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px; */
+    /* padding: 10px 10px 10px 10px;
+    margin:10px 10px 10px 10px */
+/* }
+h1{
+    border-width: 2px;
+    border-style: solid;
+    border-color: blueviolet;
+    border-radius: 10px;
+    width: 150px;
+    background-color: aquamarine;
+    text-align: center;
+} */
+/* p{
+    background-color: aquamarine;
+    border: 3px solid red;
+}
+#div2{
+    background-color: aqua;
+    display: inline;
+}
+button{
+    display: ;
+} */
+div{
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+}
