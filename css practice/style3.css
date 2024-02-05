@@ -1,0 +1,59 @@
+/* #box1{
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+    font-size: 10px;
+    width: 3em;
+}
+#box2{
+    height: 50px;
+    width: 100%;
+    background-color: rgb(37, 89, 173);
+    margin-left: 10%;
+    font-size: 3em;
+    width: 5em;
+    width: 5rem;
+} */
+div{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(112, 49, 171);
+    border: 2px solid black;
+    display: inline-block;
+}
+/* #box1{
+    position: static;
+}
+#box2{
+    position: relative;
+    top:30px;
+    left: 20px;
+    z-index: 1;
+}
+#box3{
+    position: sticky;
+    top:500px;
+    left: 20px;
+    z-index: 0;
+}
+#box4{
+    position: fixed;
+    top: 0;
+    left: 20px;
+} */
+#box1{
+    background-image: url("blackRose_pic.jpg");
+    background-size: cover;
+}
+#box2{
+    background-image: url("blackRose_pic.jpg");
+    background-size: cover;
+}
+#box3{
+    background-image: url("blackRose_pic.jpg");
+    background-size: cover;
+}
+#box4{
+    background-image: url("blackRose_pic.jpg");
+    background-size: cover;
+}

@@ -1,0 +1,43 @@
+/* .nav-bar{
+    
+    background-color: pink;
+    
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+}
+a{
+    text-decoration: none;
+    color: rgb(50, 32, 164);
+    
+
+} */
+/* #outer{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: center;
+    background-color: aqua;
+}
+#inner{
+    height: 80px;
+    width: 80px;
+    border: 2px solid black;
+    background-color: rgb(57, 57, 176);
+
+} */
+div{
+    height: 50px;
+    width: 50px;
+    background-color: aqua;
+}
+@media (min-width:600px)and (max-width:800px) {
+div{
+    background-color: red;
+}
+    
+}
